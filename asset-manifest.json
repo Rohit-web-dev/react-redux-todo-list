@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-todo-list/static/css/main.3c3c767c.css",
+    "main.js": "/react-redux-todo-list/static/js/main.17690e96.js",
+    "index.html": "/react-redux-todo-list/index.html",
+    "main.3c3c767c.css.map": "/react-redux-todo-list/static/css/main.3c3c767c.css.map",
+    "main.17690e96.js.map": "/react-redux-todo-list/static/js/main.17690e96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c3c767c.css",
+    "static/js/main.17690e96.js"
+  ]
+}
